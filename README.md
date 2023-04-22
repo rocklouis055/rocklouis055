@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rocklouis055&theme=radical&show_icons=true&count_private=true) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rocklouis055&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocklouis055&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rocklouis055?theme=light&font=Noto%20Sans%20HK&ext=activity)
